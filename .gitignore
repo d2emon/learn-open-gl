@@ -32,3 +32,6 @@
 *.app
 
 *.cbp
+*.depend
+*.layout
+*.layout.temp
